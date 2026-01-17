@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# WordPress uploaded files
+wordpress/wp-content/uploads/
+
+# WordPress cache
+wordpress/wp-content/cache/
+wordpress/wp-content/upgrade/
+wordpress/wp-content/backup-db/
+wordpress/wp-content/backups/
+wordpress/wp-content/blogs.dir/
+
+# Advanced Cache
+wordpress/wp-content/advanced-cache.php
+
+# WP Cache
+wordpress/wp-content/wp-cache-config.php
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
